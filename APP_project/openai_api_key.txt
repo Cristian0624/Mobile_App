@@ -1,3 +1,0 @@
-# Replace this with your actual OpenAI API key
-# Get your API key from https://platform.openai.com/api-keys
-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
